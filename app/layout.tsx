@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Muhd Salihin | Software Engineer Portfolio",
     description: "Portfolio of Muhd Salihin, a Software Engineer specializing in modern web development with React, Next.js, and TypeScript.",
-    url: "https://your-site.vercel.app",
+    url: "https://muhd-salihin-portfolio.vercel.app/",
     siteName: "Muhd Salihin Portfolio",
     images: [
       {
