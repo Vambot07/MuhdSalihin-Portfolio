@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Muhd Salihin | Software Engineer Portfolio",
     description: "Portfolio of Muhd Salihin, a Software Engineer specializing in modern web development with React, Next.js, and TypeScript.",
-    images: ["/og-image.jpg"],
+    images: ["/og-image.jpeg"],
   },
 };
 
